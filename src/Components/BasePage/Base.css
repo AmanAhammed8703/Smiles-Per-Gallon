@@ -1,0 +1,47 @@
+body{
+    background-color:#EEEEEE;
+    
+  }
+.appbarlogo{
+    width: 150px;
+    background-color: #222831;
+    
+}
+.appbar{
+    background-color: #222831;
+   
+}
+.banner{
+    background-color:#EEEEEE;
+    margin: 3%;
+    height: 500px;
+   width: 94%;
+   background: url("../../../public/images/otherimages/8508208-Edit-1200x800.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+   border-radius: 20px;
+   text-align: center;
+   
+}
+.sub-banner{
+    margin:3%;
+    width: 94%;
+}
+.dialogue{
+color: white;
+position: absolute;
+margin-top: 24vh;
+left: 50%;
+font-size: 2.2vw;
+transform: translate(-50%, -50%);
+}
+.div11{
+    width: 50%;
+    height: 350px;
+    background-color: aquamarine;
+}
+.div12{
+    width: 50%;
+    height: 350px;
+    background-color: rgb(73, 73, 73);
+}

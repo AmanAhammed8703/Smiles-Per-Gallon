@@ -1,0 +1,54 @@
+body {
+    background-color:#EEEEEE;
+}
+.otpMainGrid{
+    
+    padding: 7%;
+    padding-left: 18%;
+    padding-right: 15%;
+}
+
+.otpChildGrid1{
+    
+}
+.otpChildGrid2{
+    padding: 5%;
+    padding-top: 10%;
+}
+.otpLoginInput{
+    float: left;
+    width: 100%;
+    
+    
+}
+.otpLoginInputButton{
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color: #00ADB5;
+    
+}
+
+.otpLoginSignUpButton{
+    
+    width: 48%;
+    height: 25px;
+    background-color: #393E46;
+    font-size: 5px;
+     
+}
+.otpLoginLogo{
+    width: 30vw;
+    
+}
+.otpLogInName{
+    color: #393E46;
+   
+}
+
+@media only screen and (max-width:500px) {
+    .otpLoginLogo{
+        width:250px
+    }
+    
+}
